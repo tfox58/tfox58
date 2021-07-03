@@ -29,5 +29,5 @@ You can click the Preview link to take a look at your changes.
 <br>
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [Off to a “Great” Start](https://tjfox.medium.com/off-to-a-great-start-af77e19ef728?source=rss-f7c07647bc41------2)
 <!-- BLOG-POST-LIST:END -->
