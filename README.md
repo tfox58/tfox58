@@ -1,17 +1,17 @@
-- 👋 Hi, I’m @tfox58
-- 👀 I’m interested in ...
+- 👋 Hi, I am a fullstack front end developer around Ventura/Los Angeles county
+<!--- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+-->
 <!---
 tfox58/tfox58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Hello World ??
-I am a fullstack front end developer around Ventura/Los Angeles county
+<!---### Hello World ??
+
 - ?? Working on multiple frontend and backend project using React and Nodejs
-- ?? Learning design patterns in depth
+- ?? Learning design patterns in depth--->
 <br>
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/terryfox1/)
@@ -26,3 +26,7 @@ I am a fullstack front end developer around Ventura/Los Angeles county
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />-->
 <br>
 <br>
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
