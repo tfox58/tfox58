@@ -19,6 +19,15 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 ## Expertise
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&amp;logo=css3&amp;logoColor=white" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&amp;logo=javascript&amp;logoColor=black" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?style=flat-square&amp;logo=adobe&amp;logoColor=white" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&amp;logo=npm&amp;logoColor=white" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&amp;logo=markdown&amp;logoColor=white" />
+
+
+
 <!--<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
