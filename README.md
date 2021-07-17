@@ -13,11 +13,14 @@ You can click the Preview link to take a look at your changes.
 - ?? Working on multiple frontend and backend project using React and Nodejs
 - ?? Learning design patterns in depth--->
 <br>
+
 ## Connect with me
+
 <br>
 <a href="https://www.linkedin.com/in/terryfox1/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br>
 <br>
+
 ## Expertise
 
 <img align="left" alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" />
