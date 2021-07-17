@@ -40,7 +40,9 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />-->
 <br>
 <br>
+
 ## Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Off to a “Great” Start](https://tjfox.medium.com/off-to-a-great-start-af77e19ef728?source=rss-f7c07647bc41------2)
 <!-- BLOG-POST-LIST:END -->
