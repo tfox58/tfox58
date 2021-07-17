@@ -1,5 +1,5 @@
 - 👋 Hi, I am a fullstack front end engineer.
-- <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I am currently working on managing data between Google Tag Manager and Google Analytics.
+- <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I am currently working on managing data between Google Tag Manager and Google Analytics, as well as A/B testing.
 - <g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about: JavaScript, CSS.
 - <g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji> Pronouns: (seriously?)</li>
 <!--- 👀 I’m interested in ...
@@ -40,10 +40,6 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />-->
 <br>
-<br>
-[![Analytics](https://ga-beacon.appspot.com/UA-2932962-1/github.com/tfox58/badges/README.md?pixel)](https://GitHub.com/tfox58/badges/)
-<br>
-[![Analytics](https://ga-beacon.appspot.com/UA-2932962-1/github.com/tfox58/badges/README.md)](https://GitHub.com/tfox58/badges/)
 
 ## Blog posts
 
