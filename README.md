@@ -26,6 +26,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" />
 <img align="left" alt="css3" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&amp;logo=css3&amp;logoColor=white" />
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&amp;logo=javascript&amp;logoColor=black" />
+<img align="left" alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white"/>
 <img align="left" alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?style=flat-square&amp;logo=adobe&amp;logoColor=white" />
 <img align="left" alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" />
 <img align="left" alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&amp;logo=npm&amp;logoColor=white" />
