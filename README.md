@@ -31,6 +31,8 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" />
 <img align="left" alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&amp;logo=npm&amp;logoColor=white" />
 <img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/>
+<img align="left" alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+<img align="left" alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white"/>
 <img align="left" alt="markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&amp;logo=markdown&amp;logoColor=white" />
 
 
