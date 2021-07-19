@@ -1,7 +1,7 @@
 - 👋 Hi, I'm a fullstack front end engineer.
 - <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I'm currently working on managing data between Google Tag Manager and Google Analytics, as well as creating A/B tests.
 - 🌱 I’m currently learning PWA
-- <g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about: JavaScript, CSS.
+<!--- <g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about: JavaScript, CSS.
 <!--- <g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji> Pronouns: (seriously?)</li>
 <!--- 👀 I’m interested in ...-->
 <!--- 💞️ I’m looking to collaborate on ...
